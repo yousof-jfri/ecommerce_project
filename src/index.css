@@ -1,0 +1,46 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* form: inputs, buttons, checkbox */
+.form-input{
+    @apply w-full rounded outline-none px-3 py-2 border duration-150 dark:bg-gray-800 dark:border-gray-700 dark:text-white 
+}
+
+.input-b-blue{
+    @apply focus:border-blue-400
+}
+
+/* buttons start */
+.btn{
+    @apply rounded px-3 py-2 duration-150
+}
+
+.btn-full{
+    @apply w-full
+}
+
+/* btn colors */
+.btn-gray{
+    @apply bg-gray-200 text-gray-600
+}
+
+.btn-blue{
+    @apply bg-blue-500 text-white border border-blue-500 hover:bg-white hover:text-blue-500 dark:hover:bg-gray-800
+}
+
+/* btn inline */
+.btn-red-inline{
+    @apply bg-none text-red-500 border border-red-500 hover:bg-red-500 hover:text-white
+}
+
+
+/* btn rings */
+.btn-ring-blue{
+    @apply focus:ring focus:ring-4 focus:ring-blue-300 focus:ring-offset-2
+}
+
+.ring-blue{
+    @apply focus:ring-4 focus:ring-offset-2 focus:ring-blue-300
+}
+
