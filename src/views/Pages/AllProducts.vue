@@ -4,7 +4,7 @@
             <!-- filter:start -->
             <div class="col-span-1">
                 <div class="w-full p-5 bg-white dark:bg-gray-800 rounded-xl shadow-lg">
-                    <div class="w-full pb-4 flex items-center justify-between">
+                    <div class="w-full md:pb-4 flex items-center justify-between">
                         <span class="font-bold text-blue-500">Advanced filters</span>
                         <button class="btn border btn-ring-blue md:hidden block" @click="hideFilter = !hideFilter">
                             <div class="w-5 h-1 dark:bg-gray-50 bg-gray-500" style="height: 2px;"></div>
@@ -62,7 +62,7 @@
                     <div class="w-full px-5 py-2 rounded-xl bg-white shadow-lg dark:bg-gray-800 mb-5">
                         <div class="w-full md:flex block items-center justify-between">
                             <div>
-                                <span class="md:text-xl font-bold">Order By</span>
+                                <span>Order By</span>
                             </div>
                             <div class="flex flex-wrap md:mt-0 mt-3">
                                 <button @click="orderBy = 'All'" :class=" ( orderBy == 'All' ? 'bg-blue-500' : 'bg-gray-400 dark:bg-gray-900' ) + ' px-3 py-1 rounded-xl  text-white mx-2'">All</button>

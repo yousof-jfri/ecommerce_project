@@ -37,7 +37,7 @@
 
 
                 <div class="my-4">
-                    <button type="submit" class="btn-full btn-blue">Register</button>
+                    <button type="submit" class="btn-full btn btn-blue">Register</button>
                 </div>
                 <div class="my-4">
                     <router-link class="text-blue-500 dark:text-blue-200" :to="{ name: 'Login' }">already have an account</router-link>

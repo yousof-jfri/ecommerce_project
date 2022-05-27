@@ -83,7 +83,7 @@
                 <div class="md:col-span-1 sm:col-span-2 col-span-1">
                     <div class="w-full rounded-xl border bg-gray-50 dark:bg-gray-900 dark:border-gray-600 p-5">
                         <div class="pb-3 border-b">
-                            <h4 class="font-bold">SalesMan</h4>
+                            <h4 class="font-bold text-xl">Buy</h4>
                         </div>
                         <div class="py-3 border-b flex items-center">
                             <i class="fa fa-shield-alt text-sm mr-3"></i>

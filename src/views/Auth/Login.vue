@@ -22,7 +22,7 @@
                     <span>remember me</span>
                 </div>
                 <div class="my-4">
-                    <button type="submit" class="btn-full btn-blue">Login</button>
+                    <button type="submit" class="btn-full btn btn-blue">Login</button>
                 </div>
                 <div class="my-4">
                     <router-link class="text-blue-500 dark:text-blue-200" :to="{ name: 'Register' }">new to out application? create new account.</router-link>
