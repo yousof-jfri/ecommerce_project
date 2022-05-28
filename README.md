@@ -1,5 +1,5 @@
 # ecommerce_project
- this is an advanced ecommerce project created with vue js 
+ this is an advanced ecommerce project created with vue js and tailwind css.
  
 ## run project 
 	npm install
@@ -13,17 +13,16 @@
 5. shopping cart
 6. topic page
 	
-## features
-- craeted in SPA
-- dark mode and light mode
-- product page with smart search and filter
-- shopping cart with smart deleting and adding product manager
-	
 ## This project is using
-
 - vue js version 3.0.0
 - vuex version 4.0.0-0
 - vue-router version 4.0.0-0
 - tailwind css version 2.2.17
 - swiper version 6.7.5 
 	
+## Images
+![This is an image](/site_images/dark_lighr.jpg)
+![This is an image](/site_images/home.JPG)
+![This is an image](/site_images/basket_baskter.JPG)
+![This is an image](/site_images/all_products.JPG)
+![This is an image](/site_images/basket_Address.JPG)
