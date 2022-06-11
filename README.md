@@ -21,8 +21,10 @@
 - swiper version 6.7.5 
 	
 ## Images
-![This is an image](/site_images/dark_lighr.jpg)
-![This is an image](/site_images/home.JPG)
-![This is an image](/site_images/basket_baskter.JPG)
-![This is an image](/site_images/all_products.JPG)
-![This is an image](/site_images/basket_Address.JPG)
+<p align="center">
+	<img src="site_images/dark_lighr.jpg" width="45%">
+	<img src="site_images/home.JPG" width="45%">
+	<img src="site_images/basket_baskter.JPG" width="45%">
+	<img src="site_images/all_products.JPG" width="45%">
+	<img src="site_images/basket_Address.JPG" width="45%">
+</p>
