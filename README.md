@@ -1,5 +1,5 @@
 # ecommerce_project
- this is an advanced ecommerce project created with vue js and tailwind css.
+ this is an advanced ecommerce project created with vue js and tailwind css
  
 ## run project 
 	npm install
